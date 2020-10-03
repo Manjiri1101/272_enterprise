@@ -50,3 +50,4 @@ REACT_APP_TWITTER_GET_URL=get_twitters
 Source
 [Build React App on AWS](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro)
 [Create Lambda function](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-two/)
+
